@@ -43,6 +43,7 @@ EMtd8QKBgQC7UEIKCuFLFPl4p8KLyqLkTVkQz/LicFh2KQEwr7CPbfWsyOKRREZ2
 ###Create grader
 
 - Created grader account : `sudo adduser grader`
+- Set password: `Grader_2016`
 - Resources used for this step.
   - [https://www.udacity.com/course/viewer#!/c-ud299-nd/l-4331066009/m-4801089468](https://www.udacity.com/course/viewer#!/c-ud299-nd/l-4331066009/m-4801089468)
 
